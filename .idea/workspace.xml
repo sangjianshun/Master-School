@@ -143,7 +143,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608650787295</updated>
-      <workItem from="1608650788952" duration="1739000" />
+      <workItem from="1608650788952" duration="2438000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1608651698918</created>
@@ -166,19 +166,26 @@
       <option name="project" value="LOCAL" />
       <updated>1608652341951</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <created>1608652572912</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608652572912</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1739000" />
+    <option name="totallyTimeSpent" value="2438000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" sideWeight="0.50073856" side_tool="true" visible="true" weight="0.2707889" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.2707889" />
-      <window_info id="Structure" order="1" sideWeight="0.50161815" side_tool="true" weight="0.25" />
+      <window_info active="true" id="Favorites" sideWeight="0.50073856" side_tool="true" visible="true" weight="0.2707889" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.2707889" />
+      <window_info id="Structure" order="1" sideWeight="0.50073856" side_tool="true" weight="0.2707889" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" sideWeight="0.49946696" visible="true" weight="0.2657267" />
