@@ -7,3 +7,5 @@ print(a)
 # copy,返回浅拷贝
 new_a = a.copy()
 
+import copy
+new_deep_a = copy.deepcopy(a)
