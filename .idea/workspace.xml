@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd82abe-6cfe-4a04-83f0-bdfc629ca839" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/dict_my_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/dict_subclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/my_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t_keras/one_input_one_output/MyFunctional.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t_keras/one_input_one_output/MyModelSubclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t_keras/one_input_one_output/MySequential.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t_keras/one_input_one_output/main_train_minist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/t_keras/parameter_share/MySiameseModel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/master_school.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/master_school.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/t_pool/main_test_pool.py" beforeDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,49 +64,6 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="master_school" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/t_pool/main_test_pool.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_high_level/chapter01/all_is_object.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="812">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python_high_level/chapter02/school.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python_high_level/chapter01/type_object_class.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -83,75 +74,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/util.py" />
-        <option value="$PROJECT_DIR$/t_pool/main_test_pool.py" />
-        <option value="$PROJECT_DIR$/python_high_level/chapter01/all_is_object.py" />
-        <option value="$PROJECT_DIR$/python_high_level/chapter01/type_object_class.py" />
-        <option value="$PROJECT_DIR$/python_high_level/chapter02/school.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="71" />
-    <option name="y" value="119" />
-    <option name="width" value="1936" />
-    <option name="height" value="801" />
-  </component>
+  <component name="ProjectId" id="1mhLZvISVQxYnDxi1O0HgROeQBh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="master_school" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master_school" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="master_school" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master_school" type="462c0819:PsiDirectoryNode" />
-              <item name="python_high_level" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="master_school" type="b2602c69:ProjectViewProjectNode" />
-              <item name="master_school" type="462c0819:PsiDirectoryNode" />
-              <item name="python_high_level" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter02" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/t_keras/parameter_share" />
+      <recent name="$PROJECT_DIR$/t_keras/one_input_one_output" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.school">
-    <configuration name="all_is_object" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main_train_minist">
+    <configuration name="MyLayer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,12 +108,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/t_keras/parameter_share" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter01/all_is_object.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t_keras/parameter_share/MyLayer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_test_pool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="biji" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,12 +130,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/t_pool" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/t_keras" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t_pool/main_test_pool.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t_keras/biji.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="school" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main_train_minist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,12 +152,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/t_keras" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter02/school.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t_keras/one_input_one_output/main_train_minist.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="type_object_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main_train_siamese_network" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,12 +174,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/t_keras" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter01/type_object_class.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t_keras/parameter_share/main_train_siamese_network.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_train_wide_deep_nnetwork" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="master_school" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/t_keras/multi_input_multi_output" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t_keras/multi_input_multi_output/main_train_wide_deep_nnetwork.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,10 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.school" />
-        <item itemvalue="Python.type_object_class" />
-        <item itemvalue="Python.all_is_object" />
-        <item itemvalue="Python.main_test_pool" />
+        <item itemvalue="Python.main_train_minist" />
+        <item itemvalue="Python.MyLayer" />
+        <item itemvalue="Python.main_train_wide_deep_nnetwork" />
+        <item itemvalue="Python.main_train_siamese_network" />
+        <item itemvalue="Python.biji" />
       </list>
     </recent_temporary>
   </component>
@@ -261,6 +233,11 @@
       <workItem from="1608650788952" duration="2877000" />
       <workItem from="1608824739950" duration="3690000" />
       <workItem from="1608911013127" duration="5614000" />
+      <workItem from="1609940937220" duration="5000" />
+      <workItem from="1609940949072" duration="152000" />
+      <workItem from="1609941111490" duration="2555000" />
+      <workItem from="1612404507452" duration="50664000" />
+      <workItem from="1613488174067" duration="2601000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1608651698918</created>
@@ -314,39 +291,8 @@
     <option name="localTasksCounter" value="8" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12181000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.27665246" />
-      <window_info id="Favorites" order="1" sideWeight="0.50073856" side_tool="true" weight="0.2707889" />
-      <window_info id="Structure" order="2" sideWeight="0.50073856" weight="0.2707889" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="2" sideWeight="0.49946696" visible="true" weight="0.2657267" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.40238613" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.329718" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.329718" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="R Graphics" order="4" />
-      <window_info anchor="right" id="R Packages" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -355,19 +301,16 @@
           <value>
             <State>
               <option name="SHOW_DETAILS_IN_CHANGES" value="false" />
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
               </option>
             </State>
           </value>
@@ -388,47 +331,128 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/util.py" />
-    <entry file="file://$PROJECT_DIR$/t_pool/main_test_pool.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/2065167912/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="717" lean-forward="true" selection-start-line="717" selection-end-line="718" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_high_level/chapter01/type_object_class.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_high_level/chapter01/all_is_object.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_high_level/chapter02/school.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613138050660">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1613138050660" />
+    <state x="1063" y="78" key="#xdebugger.evaluate" timestamp="1613370268561">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="1063" y="78" key="#xdebugger.evaluate/0.0.1792.1120@0.0.1792.1120" timestamp="1613370268561" />
+    <state width="1750" height="184" key="GridCell.Tab.0.bottom" timestamp="1615294046906">
+      <screen x="0" y="25" width="1792" height="1027" />
+    </state>
+    <state width="1750" height="360" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1613534718097" />
+    <state width="1750" height="394" key="GridCell.Tab.0.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767294" />
+    <state width="1750" height="680" key="GridCell.Tab.0.bottom/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147781" />
+    <state width="1750" height="184" key="GridCell.Tab.0.bottom/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046906" />
+    <state width="1750" height="446" key="GridCell.Tab.0.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405195" />
+    <state width="1750" height="184" key="GridCell.Tab.0.center" timestamp="1615294046904">
+      <screen x="0" y="25" width="1792" height="1027" />
+    </state>
+    <state width="1750" height="360" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1613534718096" />
+    <state width="1750" height="394" key="GridCell.Tab.0.center/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767290" />
+    <state width="1750" height="680" key="GridCell.Tab.0.center/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147780" />
+    <state width="1750" height="184" key="GridCell.Tab.0.center/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046904" />
+    <state width="1750" height="446" key="GridCell.Tab.0.center/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405194" />
+    <state width="1750" height="184" key="GridCell.Tab.0.left" timestamp="1615294046903">
+      <screen x="0" y="25" width="1792" height="1027" />
+    </state>
+    <state width="1750" height="360" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1613534718096" />
+    <state width="1750" height="394" key="GridCell.Tab.0.left/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767288" />
+    <state width="1750" height="680" key="GridCell.Tab.0.left/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147780" />
+    <state width="1750" height="184" key="GridCell.Tab.0.left/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046903" />
+    <state width="1750" height="446" key="GridCell.Tab.0.left/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405193" />
+    <state width="1750" height="184" key="GridCell.Tab.0.right" timestamp="1615294046905">
+      <screen x="0" y="25" width="1792" height="1027" />
+    </state>
+    <state width="1750" height="360" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1613534718097" />
+    <state width="1750" height="394" key="GridCell.Tab.0.right/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767292" />
+    <state width="1750" height="680" key="GridCell.Tab.0.right/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147781" />
+    <state width="1750" height="184" key="GridCell.Tab.0.right/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046905" />
+    <state width="1750" height="446" key="GridCell.Tab.0.right/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405195" />
+    <state width="1750" height="496" key="GridCell.Tab.1.bottom" timestamp="1613481147766">
+      <screen x="0" y="25" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="496" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1613370359235" />
+    <state width="1750" height="496" key="GridCell.Tab.1.bottom/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147766" />
+    <state width="1750" height="446" key="GridCell.Tab.1.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410130" />
+    <state width="1750" height="496" key="GridCell.Tab.1.center" timestamp="1613481147765">
+      <screen x="0" y="25" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="496" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1613370359234" />
+    <state width="1750" height="496" key="GridCell.Tab.1.center/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147765" />
+    <state width="1750" height="446" key="GridCell.Tab.1.center/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410129" />
+    <state width="1750" height="496" key="GridCell.Tab.1.left" timestamp="1613481147765">
+      <screen x="0" y="25" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="496" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1613370359234" />
+    <state width="1750" height="496" key="GridCell.Tab.1.left/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147765" />
+    <state width="1750" height="446" key="GridCell.Tab.1.left/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410128" />
+    <state width="1750" height="496" key="GridCell.Tab.1.right" timestamp="1613481147766">
+      <screen x="0" y="25" width="1792" height="1026" />
+    </state>
+    <state width="1750" height="496" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1613370359235" />
+    <state width="1750" height="496" key="GridCell.Tab.1.right/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147766" />
+    <state width="1750" height="446" key="GridCell.Tab.1.right/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410129" />
+    <state x="405" y="162" key="SettingsEditor" timestamp="1612710298755">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="405" y="162" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1612710298755" />
+    <state x="405" y="174" key="SettingsEditor/0.25.1792.1027@0.25.1792.1027" timestamp="1609940969816" />
+    <state x="496" y="275" key="Vcs.Push.Dialog.v2" timestamp="1609941032750">
+      <screen x="0" y="25" width="1792" height="1027" />
+    </state>
+    <state x="496" y="275" key="Vcs.Push.Dialog.v2/0.25.1792.1027@0.25.1792.1027" timestamp="1609941032750" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t_keras/parameter_share/main_train_siamese_network.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t_keras/parameter_share/main_train_siamese_network.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t_keras/parameter_share/main_train_siamese_network.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t_keras/parameter_share/main_train_siamese_network.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/t_keras/multi_input_multi_output/main_train_wide_deep_nnetwork.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/coding_master_shool$dict_my_method.coverage" NAME="dict_my_method Coverage Results" MODIFIED="1609998489909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$my_set.coverage" NAME="my_set Coverage Results" MODIFIED="1609999169948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$main_train_siamese_network.coverage" NAME="main_train_siamese_network Coverage Results" MODIFIED="1613367214309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$main_train_minist.coverage" NAME="main_train_minist Coverage Results" MODIFIED="1613534718079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$MySiameseModel.coverage" NAME="MySiameseModel Coverage Results" MODIFIED="1613111309060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$biji.coverage" NAME="biji Coverage Results" MODIFIED="1613366950059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$MySequential.coverage" NAME="MySequential Coverage Results" MODIFIED="1613142427430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras/one_input_one_output" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$MyLayer.coverage" NAME="MyLayer Coverage Results" MODIFIED="1613488308723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras/parameter_share" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$main_train.coverage" NAME="main_train_minist Coverage Results" MODIFIED="1613446823980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$dict_subclass.coverage" NAME="dict_subclass Coverage Results" MODIFIED="1609998774458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
   </component>
 </project>
