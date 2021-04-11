@@ -25,15 +25,19 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bd82abe-6cfe-4a04-83f0-bdfc629ca839" name="Default Changelist" comment="Merge branch 'jssang' of https://github.com/sangjianshun/Master-School into jssang&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/abc_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/attr_mro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/class_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/class_var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/isinstance_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/private_method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/master_school.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/master_school.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0bd82abe-6cfe-4a04-83f0-bdfc629ca839" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/1_add_isdd_extend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/2_is_equel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/type_isinstance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/contextlib_with.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/self_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/super_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/test_mixin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter04/with_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter05/bisect_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter05/sequence_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter05/slice_object.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter05/slice_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,8 +138,8 @@
       <recent name="$PROJECT_DIR$/t_keras/one_input_one_output" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.private_method">
-    <configuration name="attr_mro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2_is_equel">
+    <configuration name="1_add_isdd_extend" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,12 +147,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter04/attr_mro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/1min_master_school_code/1_add_isdd_extend.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_is_equel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,12 +169,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter04/class_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/1min_master_school_code/2_is_equel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="class_var" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sequence_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,12 +191,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter04/class_var.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter05/sequence_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="isinstance_type" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="slice_object" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,12 +213,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter04/isinstance_type.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter05/slice_object.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +227,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="private_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="slice_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,12 +235,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter05" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter04/private_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter05/slice_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,14 +251,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.private_method" />
-        <item itemvalue="Python.class_method" />
-        <item itemvalue="Python.attr_mro" />
-        <item itemvalue="Python.class_var" />
-        <item itemvalue="Python.isinstance_type" />
+        <item itemvalue="Python.2_is_equel" />
+        <item itemvalue="Python.1_add_isdd_extend" />
+        <item itemvalue="Python.slice_object" />
+        <item itemvalue="Python.slice_test" />
+        <item itemvalue="Python.sequence_test" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -279,6 +284,16 @@
       <workItem from="1617893312021" duration="1000" />
       <workItem from="1617893357152" duration="19000" />
       <workItem from="1617895888053" duration="105000" />
+      <workItem from="1617896133490" duration="1670000" />
+      <workItem from="1618022993562" duration="252000" />
+      <workItem from="1618023287295" duration="112000" />
+      <workItem from="1618023415566" duration="225000" />
+      <workItem from="1618023659521" duration="122000" />
+      <workItem from="1618024123387" duration="4610000" />
+      <workItem from="1618065748956" duration="2065000" />
+      <workItem from="1618069377174" duration="97000" />
+      <workItem from="1618069490880" duration="69000" />
+      <workItem from="1618069576203" duration="6182000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1608651698918</created>
@@ -350,7 +365,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617638677740</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Merge branch 'jssang' of https://github.com/sangjianshun/Master-School into jssang&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1617896230941</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1617896230941</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -394,7 +416,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -462,81 +484,6 @@
     <MESSAGE value="Merge branch 'jssang' of https://github.com/sangjianshun/Master-School into jssang&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'jssang' of https://github.com/sangjianshun/Master-School into jssang&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613138050660">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1613138050660" />
-    <state x="1063" y="78" key="#xdebugger.evaluate" timestamp="1613370268561">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="1063" y="78" key="#xdebugger.evaluate/0.0.1792.1120@0.0.1792.1120" timestamp="1613370268561" />
-    <state width="1750" height="184" key="GridCell.Tab.0.bottom" timestamp="1615294046906">
-      <screen x="0" y="25" width="1792" height="1027" />
-    </state>
-    <state width="1750" height="360" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1613534718097" />
-    <state width="1750" height="394" key="GridCell.Tab.0.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767294" />
-    <state width="1750" height="680" key="GridCell.Tab.0.bottom/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147781" />
-    <state width="1750" height="184" key="GridCell.Tab.0.bottom/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046906" />
-    <state width="1750" height="446" key="GridCell.Tab.0.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405195" />
-    <state width="1750" height="184" key="GridCell.Tab.0.center" timestamp="1615294046904">
-      <screen x="0" y="25" width="1792" height="1027" />
-    </state>
-    <state width="1750" height="360" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1613534718096" />
-    <state width="1750" height="394" key="GridCell.Tab.0.center/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767290" />
-    <state width="1750" height="680" key="GridCell.Tab.0.center/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147780" />
-    <state width="1750" height="184" key="GridCell.Tab.0.center/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046904" />
-    <state width="1750" height="446" key="GridCell.Tab.0.center/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405194" />
-    <state width="1750" height="184" key="GridCell.Tab.0.left" timestamp="1615294046903">
-      <screen x="0" y="25" width="1792" height="1027" />
-    </state>
-    <state width="1750" height="360" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1613534718096" />
-    <state width="1750" height="394" key="GridCell.Tab.0.left/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767288" />
-    <state width="1750" height="680" key="GridCell.Tab.0.left/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147780" />
-    <state width="1750" height="184" key="GridCell.Tab.0.left/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046903" />
-    <state width="1750" height="446" key="GridCell.Tab.0.left/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405193" />
-    <state width="1750" height="184" key="GridCell.Tab.0.right" timestamp="1615294046905">
-      <screen x="0" y="25" width="1792" height="1027" />
-    </state>
-    <state width="1750" height="360" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1613534718097" />
-    <state width="1750" height="394" key="GridCell.Tab.0.right/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767292" />
-    <state width="1750" height="680" key="GridCell.Tab.0.right/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147781" />
-    <state width="1750" height="184" key="GridCell.Tab.0.right/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046905" />
-    <state width="1750" height="446" key="GridCell.Tab.0.right/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405195" />
-    <state width="1750" height="496" key="GridCell.Tab.1.bottom" timestamp="1613481147766">
-      <screen x="0" y="25" width="1792" height="1026" />
-    </state>
-    <state width="1750" height="496" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1613370359235" />
-    <state width="1750" height="496" key="GridCell.Tab.1.bottom/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147766" />
-    <state width="1750" height="446" key="GridCell.Tab.1.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410130" />
-    <state width="1750" height="496" key="GridCell.Tab.1.center" timestamp="1613481147765">
-      <screen x="0" y="25" width="1792" height="1026" />
-    </state>
-    <state width="1750" height="496" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1613370359234" />
-    <state width="1750" height="496" key="GridCell.Tab.1.center/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147765" />
-    <state width="1750" height="446" key="GridCell.Tab.1.center/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410129" />
-    <state width="1750" height="496" key="GridCell.Tab.1.left" timestamp="1613481147765">
-      <screen x="0" y="25" width="1792" height="1026" />
-    </state>
-    <state width="1750" height="496" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1613370359234" />
-    <state width="1750" height="496" key="GridCell.Tab.1.left/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147765" />
-    <state width="1750" height="446" key="GridCell.Tab.1.left/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410128" />
-    <state width="1750" height="496" key="GridCell.Tab.1.right" timestamp="1613481147766">
-      <screen x="0" y="25" width="1792" height="1026" />
-    </state>
-    <state width="1750" height="496" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1613370359235" />
-    <state width="1750" height="496" key="GridCell.Tab.1.right/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147766" />
-    <state width="1750" height="446" key="GridCell.Tab.1.right/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410129" />
-    <state x="405" y="162" key="SettingsEditor" timestamp="1612710298755">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="405" y="162" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1612710298755" />
-    <state x="405" y="174" key="SettingsEditor/0.25.1792.1027@0.25.1792.1027" timestamp="1609940969816" />
-    <state x="496" y="275" key="Vcs.Push.Dialog.v2" timestamp="1609941032750">
-      <screen x="0" y="25" width="1792" height="1027" />
-    </state>
-    <state x="496" y="275" key="Vcs.Push.Dialog.v2/0.25.1792.1027@0.25.1792.1027" timestamp="1609941032750" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -570,19 +517,33 @@
           <line>12</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_high_level/chapter05/slice_object.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/coding_master_shool$biji.coverage" NAME="biji Coverage Results" MODIFIED="1613366950059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
     <SUITE FILE_PATH="coverage/coding_master_shool$main_train.coverage" NAME="main_train_minist Coverage Results" MODIFIED="1613446823980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
+    <SUITE FILE_PATH="coverage/master_school$with_test.coverage" NAME="with_test Coverage Results" MODIFIED="1618025393768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/master_school$contextlib_with.coverage" NAME="contextlib_with Coverage Results" MODIFIED="1618025895958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
     <SUITE FILE_PATH="coverage/coding_master_shool$main_train_siamese_network.coverage" NAME="main_train_siamese_network Coverage Results" MODIFIED="1613367214309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
+    <SUITE FILE_PATH="coverage/master_school$sequence_test.coverage" NAME="sequence_test Coverage Results" MODIFIED="1618067211247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter05" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$my_set.coverage" NAME="my_set Coverage Results" MODIFIED="1609999169948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$MySequential.coverage" NAME="MySequential Coverage Results" MODIFIED="1613142427430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras/one_input_one_output" />
+    <SUITE FILE_PATH="coverage/master_school$slice_object.coverage" NAME="slice_object Coverage Results" MODIFIED="1618079282386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter05" />
+    <SUITE FILE_PATH="coverage/master_school$self_ex.coverage" NAME="self_ex Coverage Results" MODIFIED="1617896744947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
     <SUITE FILE_PATH="coverage/coding_master_shool$MyLayer.coverage" NAME="MyLayer Coverage Results" MODIFIED="1613488308723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras/parameter_share" />
     <SUITE FILE_PATH="coverage/coding_master_shool$dict_subclass.coverage" NAME="dict_subclass Coverage Results" MODIFIED="1609998774458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
     <SUITE FILE_PATH="coverage/coding_master_shool$main_train_minist.coverage" NAME="main_train_minist Coverage Results" MODIFIED="1613534718079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
     <SUITE FILE_PATH="coverage/coding_master_shool$dict_my_method.coverage" NAME="dict_my_method Coverage Results" MODIFIED="1609998489909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$my_set.coverage" NAME="my_set Coverage Results" MODIFIED="1609999169948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$MySequential.coverage" NAME="MySequential Coverage Results" MODIFIED="1613142427430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras/one_input_one_output" />
+    <SUITE FILE_PATH="coverage/master_school$slice_test.coverage" NAME="slice_test Coverage Results" MODIFIED="1618078219900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter05" />
+    <SUITE FILE_PATH="coverage/master_school$2_is_equel.coverage" NAME="2_is_equel Coverage Results" MODIFIED="1618111041347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
+    <SUITE FILE_PATH="coverage/master_school$super_test.coverage" NAME="super_test Coverage Results" MODIFIED="1617897334625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/master_school$1_add_isdd_extend.coverage" NAME="1_add_isdd_extend Coverage Results" MODIFIED="1618110513175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
     <SUITE FILE_PATH="coverage/coding_master_shool$MySiameseModel.coverage" NAME="MySiameseModel Coverage Results" MODIFIED="1613111309060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
   </component>
   <component name="editorHistoryManager">
