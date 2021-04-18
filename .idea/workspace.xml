@@ -26,8 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd82abe-6cfe-4a04-83f0-bdfc629ca839" name="Default Changelist" comment="test">
-      <change beforePath="$PROJECT_DIR$/.idea/master_school.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/master_school.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapterxx/iterable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapterxx/iterable_iterator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,8 +91,8 @@
       <recent name="$PROJECT_DIR$/t_keras/one_input_one_output" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.jssang_test">
-    <configuration name="MyLayer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.iterable_iterator">
+    <configuration name="iterable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,12 +100,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/t_keras/parameter_share" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapterxx" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t_keras/parameter_share/MyLayer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapterxx/iterable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iterable_iterator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="master_school" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapterxx" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapterxx/iterable_iterator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,35 +202,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main_train_wide_deep_nnetwork" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="master_school" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/t_keras/multi_input_multi_output" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t_keras/multi_input_multi_output/main_train_wide_deep_nnetwork.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.iterable_iterator" />
+        <item itemvalue="Python.iterable" />
         <item itemvalue="Python.jssang_test" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main_train_minist" />
-        <item itemvalue="Python.MyLayer" />
-        <item itemvalue="Python.main_train_wide_deep_nnetwork" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +232,7 @@
       <workItem from="1613488174067" duration="2601000" />
       <workItem from="1617634241746" duration="272000" />
       <workItem from="1617671719956" duration="136000" />
-      <workItem from="1618232321187" duration="4246000" />
+      <workItem from="1618232321187" duration="6589000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1608651698918</created>
@@ -290,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617634416608</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test">
+      <created>1618589898911</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1618589898911</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,60 +355,60 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="1063" y="78" key="#xdebugger.evaluate/0.0.1792.1120@0.0.1792.1120" timestamp="1613370268561" />
-    <state width="1750" height="331" key="GridCell.Tab.0.bottom" timestamp="1618317761046">
+    <state width="1750" height="496" key="GridCell.Tab.0.bottom" timestamp="1618593422161">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="331" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1618317761046" />
+    <state width="1750" height="496" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422161" />
     <state width="1750" height="394" key="GridCell.Tab.0.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767294" />
     <state width="1750" height="680" key="GridCell.Tab.0.bottom/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147781" />
     <state width="1750" height="184" key="GridCell.Tab.0.bottom/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046906" />
     <state width="1750" height="446" key="GridCell.Tab.0.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405195" />
-    <state width="1750" height="331" key="GridCell.Tab.0.center" timestamp="1618317761045">
+    <state width="1750" height="496" key="GridCell.Tab.0.center" timestamp="1618593422160">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="331" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1618317761045" />
+    <state width="1750" height="496" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422160" />
     <state width="1750" height="394" key="GridCell.Tab.0.center/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767290" />
     <state width="1750" height="680" key="GridCell.Tab.0.center/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147780" />
     <state width="1750" height="184" key="GridCell.Tab.0.center/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046904" />
     <state width="1750" height="446" key="GridCell.Tab.0.center/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405194" />
-    <state width="1750" height="331" key="GridCell.Tab.0.left" timestamp="1618317761045">
+    <state width="1750" height="496" key="GridCell.Tab.0.left" timestamp="1618593422159">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="331" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1618317761045" />
+    <state width="1750" height="496" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422159" />
     <state width="1750" height="394" key="GridCell.Tab.0.left/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767288" />
     <state width="1750" height="680" key="GridCell.Tab.0.left/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147780" />
     <state width="1750" height="184" key="GridCell.Tab.0.left/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046903" />
     <state width="1750" height="446" key="GridCell.Tab.0.left/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405193" />
-    <state width="1750" height="331" key="GridCell.Tab.0.right" timestamp="1618317761046">
+    <state width="1750" height="496" key="GridCell.Tab.0.right" timestamp="1618593422160">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="331" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1618317761046" />
+    <state width="1750" height="496" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422160" />
     <state width="1750" height="394" key="GridCell.Tab.0.right/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767292" />
     <state width="1750" height="680" key="GridCell.Tab.0.right/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147781" />
     <state width="1750" height="184" key="GridCell.Tab.0.right/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046905" />
     <state width="1750" height="446" key="GridCell.Tab.0.right/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405195" />
-    <state width="1750" height="496" key="GridCell.Tab.1.bottom" timestamp="1613481147766">
-      <screen x="0" y="25" width="1792" height="1026" />
+    <state width="1750" height="496" key="GridCell.Tab.1.bottom" timestamp="1618593422162">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="496" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1613370359235" />
+    <state width="1750" height="496" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422162" />
     <state width="1750" height="496" key="GridCell.Tab.1.bottom/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147766" />
     <state width="1750" height="446" key="GridCell.Tab.1.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410130" />
-    <state width="1750" height="496" key="GridCell.Tab.1.center" timestamp="1613481147765">
-      <screen x="0" y="25" width="1792" height="1026" />
+    <state width="1750" height="496" key="GridCell.Tab.1.center" timestamp="1618593422162">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="496" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1613370359234" />
+    <state width="1750" height="496" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422162" />
     <state width="1750" height="496" key="GridCell.Tab.1.center/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147765" />
     <state width="1750" height="446" key="GridCell.Tab.1.center/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410129" />
-    <state width="1750" height="496" key="GridCell.Tab.1.left" timestamp="1613481147765">
-      <screen x="0" y="25" width="1792" height="1026" />
+    <state width="1750" height="496" key="GridCell.Tab.1.left" timestamp="1618593422161">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="496" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1613370359234" />
+    <state width="1750" height="496" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422161" />
     <state width="1750" height="496" key="GridCell.Tab.1.left/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147765" />
     <state width="1750" height="446" key="GridCell.Tab.1.left/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410128" />
-    <state width="1750" height="496" key="GridCell.Tab.1.right" timestamp="1613481147766">
-      <screen x="0" y="25" width="1792" height="1026" />
+    <state width="1750" height="496" key="GridCell.Tab.1.right" timestamp="1618593422162">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="496" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1613370359235" />
+    <state width="1750" height="496" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422162" />
     <state width="1750" height="496" key="GridCell.Tab.1.right/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147766" />
     <state width="1750" height="446" key="GridCell.Tab.1.right/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410129" />
     <state x="405" y="162" key="SettingsEditor" timestamp="1612710298755">
@@ -409,10 +416,10 @@
     </state>
     <state x="405" y="162" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1612710298755" />
     <state x="405" y="174" key="SettingsEditor/0.25.1792.1027@0.25.1792.1027" timestamp="1609940969816" />
-    <state x="496" y="273" key="Vcs.Push.Dialog.v2" timestamp="1617634428793">
+    <state x="496" y="273" key="Vcs.Push.Dialog.v2" timestamp="1618589910793">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="273" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1617634428793" />
+    <state x="496" y="273" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1618589910793" />
     <state x="496" y="275" key="Vcs.Push.Dialog.v2/0.25.1792.1027@0.25.1792.1027" timestamp="1609941032750" />
   </component>
   <component name="XDebuggerManager">
@@ -443,21 +450,28 @@
           <line>64</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_high_level/chapterxx/iterable_iterator.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/coding_master_shool$dict_my_method.coverage" NAME="dict_my_method Coverage Results" MODIFIED="1609998489909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$my_set.coverage" NAME="my_set Coverage Results" MODIFIED="1609999169948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$main_train_siamese_network.coverage" NAME="main_train_siamese_network Coverage Results" MODIFIED="1613367214309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
     <SUITE FILE_PATH="coverage/coding_master_shool$main_train_minist.coverage" NAME="main_train_minist Coverage Results" MODIFIED="1613534718079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
     <SUITE FILE_PATH="coverage/coding_master_shool$MySiameseModel.coverage" NAME="MySiameseModel Coverage Results" MODIFIED="1613111309060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
     <SUITE FILE_PATH="coverage/coding_master_shool$biji.coverage" NAME="biji Coverage Results" MODIFIED="1613366950059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$MySequential.coverage" NAME="MySequential Coverage Results" MODIFIED="1613142427430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras/one_input_one_output" />
     <SUITE FILE_PATH="coverage/coding_master_shool$MyLayer.coverage" NAME="MyLayer Coverage Results" MODIFIED="1613488308723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras/parameter_share" />
     <SUITE FILE_PATH="coverage/coding_master_shool$jssang_test.coverage" NAME="jssang_test Coverage Results" MODIFIED="1618317761037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../xlm-roberta-ner-master" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$iterable_iterator.coverage" NAME="iterable_iterator Coverage Results" MODIFIED="1618593422128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapterxx" />
     <SUITE FILE_PATH="coverage/coding_master_shool$main_train.coverage" NAME="main_train_minist Coverage Results" MODIFIED="1613446823980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$dict_subclass.coverage" NAME="dict_subclass Coverage Results" MODIFIED="1609998774458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
     <SUITE FILE_PATH="coverage/coding_master_shool$main.coverage" NAME="main Coverage Results" MODIFIED="1618232655876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../xlm-roberta-ner-master" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$dict_my_method.coverage" NAME="dict_my_method Coverage Results" MODIFIED="1609998489909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$my_set.coverage" NAME="my_set Coverage Results" MODIFIED="1609999169948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$main_train_siamese_network.coverage" NAME="main_train_siamese_network Coverage Results" MODIFIED="1613367214309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$MySequential.coverage" NAME="MySequential Coverage Results" MODIFIED="1613142427430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras/one_input_one_output" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$iterable.coverage" NAME="iterable Coverage Results" MODIFIED="1618590864904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapterxx" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$dict_subclass.coverage" NAME="dict_subclass Coverage Results" MODIFIED="1609998774458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
   </component>
 </project>
