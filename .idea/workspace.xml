@@ -26,26 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd82abe-6cfe-4a04-83f0-bdfc629ca839" name="Default Changelist" comment="Merge branch 'jssang' of https://github.com/sangjianshun/Master-School into jssang&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter06/dict_abc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter06/dict_performance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter06/dict_subclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter06/set_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter07/delete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter07/one_error.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter07/what_is_var.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter08/attr_desc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter08/getattr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter08/metaclass_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter08/my_orm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter08/new_init.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter08/property_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_high_level/1min_master_school_code/2_is_equel.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/2_is_equal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_high_level/1min_master_school_code/type_isinstance.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/type_isinstance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_high_level/chapter05/bisect_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/chapter05/bisect_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_high_level/chapter06/111.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/chapter05/array_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_high_level/chapter06/dict_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/chapter06/dict_method.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_high_level/chapter06/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/chapter05/list_gen.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -306,7 +288,8 @@
       <workItem from="1618238928863" duration="3144000" />
       <workItem from="1618413679059" duration="12000" />
       <workItem from="1618413728200" duration="2830000" />
-      <workItem from="1618500187040" duration="4279000" />
+      <workItem from="1618500187040" duration="4365000" />
+      <workItem from="1618750124190" duration="1225000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1608651698918</created>
@@ -392,7 +375,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618112269824</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Merge branch 'jssang' of https://github.com/sangjianshun/Master-School into jssang&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1618504540659</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1618504540659</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
