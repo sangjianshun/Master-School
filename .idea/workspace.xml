@@ -26,36 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd82abe-6cfe-4a04-83f0-bdfc629ca839" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/algoithm/code/EvaluationIndex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/EvaluationIndex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/code/SingleClassEvaluationIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/SingleClassEvaluationIndex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/code/candy.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/candy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/code/combinationSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/combinationSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/code/getMaxMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/getMaxMatrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/code/heapSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/heapSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/code/isMatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/isMatch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/code/logisticRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/logisticRegression.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/code/longestValidParentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/longestValidParentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/code/majiang.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/majiang.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/code/mySqrt.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/mySqrt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/code/quickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/quickSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/code/uniquePathsIII_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/uniquePathsIII_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/10_最大矩形_20200407_85.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/10_最大矩形_20200407_85.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/11_快速排序_20200507.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/11_快速排序_20200507.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/12_堆排序_20200507.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/12_堆排序_20200507.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/1_在排序数组中查找元素的第一个和最后一个位置_20200108_34.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/1_在排序数组中查找元素的第一个和最后一个位置_20200108_34.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/2_二叉树中的最大路径和_20200109_124.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/2_二叉树中的最大路径和_20200109_124.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/3_分发糖果_20200128_135.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/3_分发糖果_20200128_135.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/4_组合总和_20200129_39.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/4_组合总和_20200129_39.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/5_不同路径3_20200316_980.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/5_不同路径3_20200316_980.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/6_正则表达式匹配_20200320_10.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/6_正则表达式匹配_20200320_10.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/7_最长有效括号_20200320_32.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/7_最长有效括号_20200320_32.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/8_x的平方根_20200325_69.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/8_x的平方根_20200325_69.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/9_最大子矩阵_20200325_面试_动态规划3.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/9_最大子矩阵_20200325_面试_动态规划3.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/Logistic_Regression_20200428.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/Logistic_Regression_20200428.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/word中参考文献的自动生成_20200330.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/word中参考文献的自动生成_20200330.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/多标签分类评价指标介绍（一）.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/多标签分类评价指标介绍（一）.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/多标签分类评价指标介绍（二）.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/多标签分类评价指标介绍（二）.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algoithm/ppt/机器学习分类常用评价指标.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/机器学习分类常用评价指标.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleClassEvaluationIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/SingleClassEvaluationIndex.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +85,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\master_school_coding\master_school\algoithm\ppt" />
+      <recent name="E:\master_school_coding\master_school\algoithm" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\master_school_coding\master_school\algoithm\code" />
       <recent name="$PROJECT_DIR$/t_keras/parameter_share" />
       <recent name="$PROJECT_DIR$/t_keras/one_input_one_output" />
     </key>
@@ -265,6 +242,7 @@
       <workItem from="1618843168885" duration="4770000" />
       <workItem from="1618929787581" duration="4331000" />
       <workItem from="1619016123004" duration="8664000" />
+      <workItem from="1619233316833" duration="2254000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1608651698918</created>
@@ -343,7 +321,21 @@
       <option name="project" value="LOCAL" />
       <updated>1618760921489</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="test">
+      <created>1619233522202</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1619233522202</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test">
+      <created>1619233598203</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1619233598203</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
