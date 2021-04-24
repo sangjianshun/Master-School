@@ -26,24 +26,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd82abe-6cfe-4a04-83f0-bdfc629ca839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/4_NotImplementedError.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/7_different_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/8_attr_private.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter10/socket_http.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/concurrent_futures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/python_gil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/python_thread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_queue_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_semaphore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_sync.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_high_level/1min_master_school_code/type_isinstance.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/3_type_isinstance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_high_level/chapter10/socket_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/chapter10/socket_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_high_level/chapter10/socket_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/chapter10/socket_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/code/EvaluationIndex1.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/EvaluationIndex1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/code/SingleClassEvaluationIndex.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/SingleClassEvaluationIndex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/code/candy.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/candy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/code/combinationSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/combinationSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/code/getMaxMatrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/getMaxMatrix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/code/heapSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/heapSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/code/isMatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/isMatch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/code/logisticRegression.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/logisticRegression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/code/longestValidParentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/longestValidParentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/code/majiang.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/majiang.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/code/mySqrt.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/mySqrt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/code/quickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/quickSort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/code/uniquePathsIII_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/code/uniquePathsIII_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/10_最大矩形_20200407_85.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/10_最大矩形_20200407_85.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/11_快速排序_20200507.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/11_快速排序_20200507.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/12_堆排序_20200507.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/12_堆排序_20200507.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/1_在排序数组中查找元素的第一个和最后一个位置_20200108_34.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/1_在排序数组中查找元素的第一个和最后一个位置_20200108_34.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/2_二叉树中的最大路径和_20200109_124.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/2_二叉树中的最大路径和_20200109_124.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/3_分发糖果_20200128_135.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/3_分发糖果_20200128_135.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/4_组合总和_20200129_39.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/4_组合总和_20200129_39.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/5_不同路径3_20200316_980.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/5_不同路径3_20200316_980.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/6_正则表达式匹配_20200320_10.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/6_正则表达式匹配_20200320_10.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/7_最长有效括号_20200320_32.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/7_最长有效括号_20200320_32.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/8_x的平方根_20200325_69.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/8_x的平方根_20200325_69.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/9_最大子矩阵_20200325_面试_动态规划3.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/9_最大子矩阵_20200325_面试_动态规划3.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/Logistic_Regression_20200428.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/Logistic_Regression_20200428.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/word中参考文献的自动生成_20200330.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/word中参考文献的自动生成_20200330.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/多标签分类评价指标介绍（一）.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/多标签分类评价指标介绍（一）.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/多标签分类评价指标介绍（二）.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/多标签分类评价指标介绍（二）.pptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algoithm/ppt/机器学习分类常用评价指标.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm/ppt/机器学习分类常用评价指标.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +101,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/algoithm/ppt" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
