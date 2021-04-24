@@ -25,10 +25,25 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bd82abe-6cfe-4a04-83f0-bdfc629ca839" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapterxx/iterable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapterxx/iterable_iterator.py" afterDir="false" />
+    <list default="true" id="0bd82abe-6cfe-4a04-83f0-bdfc629ca839" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/4_NotImplementedError.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/7_different_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/8_attr_private.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter10/socket_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/concurrent_futures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/python_gil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/python_thread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_queue_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_semaphore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_sync.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/variables.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_high_level/1min_master_school_code/type_isinstance.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/3_type_isinstance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_high_level/chapter10/socket_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/chapter10/socket_client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_high_level/chapter10/socket_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/chapter10/socket_server.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +106,8 @@
       <recent name="$PROJECT_DIR$/t_keras/one_input_one_output" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.iterable_iterator">
-    <configuration name="iterable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.concurrent_futures">
+    <configuration name="7_different_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,12 +115,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapterxx" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapterxx/iterable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/1min_master_school_code/7_different_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="iterable_iterator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="concurrent_futures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,12 +137,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapterxx" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapterxx/iterable_iterator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter11/concurrent_futures.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,51 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="jssang_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="xlm-roberta-ner-master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../xlm-roberta-ner-master" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../xlm-roberta-ner-master/jssang_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="xlm-roberta-ner-master" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../xlm-roberta-ner-master" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../xlm-roberta-ner-master/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main_train_minist" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="thread_condition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,12 +159,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/t_keras" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter11" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/t_keras/one_input_one_output/main_train_minist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter11/thread_condition.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thread_semaphore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="master_school" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter11/thread_semaphore.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="thread_sync" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="master_school" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python_high_level/chapter11" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_high_level/chapter11/thread_sync.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,14 +219,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.iterable_iterator" />
-        <item itemvalue="Python.iterable" />
-        <item itemvalue="Python.jssang_test" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.main_train_minist" />
+        <item itemvalue="Python.concurrent_futures" />
+        <item itemvalue="Python.thread_semaphore" />
+        <item itemvalue="Python.7_different_method" />
+        <item itemvalue="Python.thread_condition" />
+        <item itemvalue="Python.thread_sync" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -233,6 +249,10 @@
       <workItem from="1617634241746" duration="272000" />
       <workItem from="1617671719956" duration="136000" />
       <workItem from="1618232321187" duration="6589000" />
+      <workItem from="1618759523119" duration="656000" />
+      <workItem from="1618843168885" duration="4770000" />
+      <workItem from="1618929787581" duration="4331000" />
+      <workItem from="1619016123004" duration="8664000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1608651698918</created>
@@ -297,11 +317,25 @@
       <option name="project" value="LOCAL" />
       <updated>1618589898911</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test">
+      <created>1618752052033</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1618752052034</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test">
+      <created>1618760921489</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1618760921489</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -346,82 +380,6 @@
     <MESSAGE value="test" />
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613138050660">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="634" y="311" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1613138050660" />
-    <state x="1063" y="78" key="#xdebugger.evaluate" timestamp="1613370268561">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="1063" y="78" key="#xdebugger.evaluate/0.0.1792.1120@0.0.1792.1120" timestamp="1613370268561" />
-    <state width="1750" height="496" key="GridCell.Tab.0.bottom" timestamp="1618593422161">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="496" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422161" />
-    <state width="1750" height="394" key="GridCell.Tab.0.bottom/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767294" />
-    <state width="1750" height="680" key="GridCell.Tab.0.bottom/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147781" />
-    <state width="1750" height="184" key="GridCell.Tab.0.bottom/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046906" />
-    <state width="1750" height="446" key="GridCell.Tab.0.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405195" />
-    <state width="1750" height="496" key="GridCell.Tab.0.center" timestamp="1618593422160">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="496" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422160" />
-    <state width="1750" height="394" key="GridCell.Tab.0.center/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767290" />
-    <state width="1750" height="680" key="GridCell.Tab.0.center/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147780" />
-    <state width="1750" height="184" key="GridCell.Tab.0.center/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046904" />
-    <state width="1750" height="446" key="GridCell.Tab.0.center/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405194" />
-    <state width="1750" height="496" key="GridCell.Tab.0.left" timestamp="1618593422159">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="496" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422159" />
-    <state width="1750" height="394" key="GridCell.Tab.0.left/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767288" />
-    <state width="1750" height="680" key="GridCell.Tab.0.left/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147780" />
-    <state width="1750" height="184" key="GridCell.Tab.0.left/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046903" />
-    <state width="1750" height="446" key="GridCell.Tab.0.left/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405193" />
-    <state width="1750" height="496" key="GridCell.Tab.0.right" timestamp="1618593422160">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="496" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422160" />
-    <state width="1750" height="394" key="GridCell.Tab.0.right/0.25.1792.1024@0.25.1792.1024" timestamp="1612362767292" />
-    <state width="1750" height="680" key="GridCell.Tab.0.right/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147781" />
-    <state width="1750" height="184" key="GridCell.Tab.0.right/0.25.1792.1027@0.25.1792.1027" timestamp="1615294046905" />
-    <state width="1750" height="446" key="GridCell.Tab.0.right/0.25.1792.1030@0.25.1792.1030" timestamp="1613139405195" />
-    <state width="1750" height="496" key="GridCell.Tab.1.bottom" timestamp="1618593422162">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="496" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422162" />
-    <state width="1750" height="496" key="GridCell.Tab.1.bottom/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147766" />
-    <state width="1750" height="446" key="GridCell.Tab.1.bottom/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410130" />
-    <state width="1750" height="496" key="GridCell.Tab.1.center" timestamp="1618593422162">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="496" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422162" />
-    <state width="1750" height="496" key="GridCell.Tab.1.center/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147765" />
-    <state width="1750" height="446" key="GridCell.Tab.1.center/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410129" />
-    <state width="1750" height="496" key="GridCell.Tab.1.left" timestamp="1618593422161">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="496" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422161" />
-    <state width="1750" height="496" key="GridCell.Tab.1.left/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147765" />
-    <state width="1750" height="446" key="GridCell.Tab.1.left/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410128" />
-    <state width="1750" height="496" key="GridCell.Tab.1.right" timestamp="1618593422162">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1750" height="496" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1618593422162" />
-    <state width="1750" height="496" key="GridCell.Tab.1.right/0.25.1792.1026@0.25.1792.1026" timestamp="1613481147766" />
-    <state width="1750" height="446" key="GridCell.Tab.1.right/0.25.1792.1030@0.25.1792.1030" timestamp="1613139410129" />
-    <state x="405" y="162" key="SettingsEditor" timestamp="1612710298755">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="405" y="162" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1612710298755" />
-    <state x="405" y="174" key="SettingsEditor/0.25.1792.1027@0.25.1792.1027" timestamp="1609940969816" />
-    <state x="496" y="273" key="Vcs.Push.Dialog.v2" timestamp="1618589910793">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="496" y="273" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1618589910793" />
-    <state x="496" y="275" key="Vcs.Push.Dialog.v2/0.25.1792.1027@0.25.1792.1027" timestamp="1609941032750" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -451,27 +409,116 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/python_high_level/chapterxx/iterable_iterator.py</url>
+          <url>file://$PROJECT_DIR$/python_high_level/chapter09/iterable_iterator.py</url>
           <line>31</line>
           <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_high_level/chapter08/my_orm.py</url>
+          <line>98</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_high_level/chapter08/my_orm.py</url>
+          <line>105</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_high_level/chapter08/my_orm.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_high_level/chapter08/my_orm.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_high_level/chapter08/my_orm.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_high_level/chapter08/my_orm.py</url>
+          <line>59</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_high_level/chapter09/gen_func.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_high_level/chapter11/python_thread.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python_high_level/chapter11/concurrent_futures.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/coding_master_shool$main_train_minist.coverage" NAME="main_train_minist Coverage Results" MODIFIED="1613534718079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$MySiameseModel.coverage" NAME="MySiameseModel Coverage Results" MODIFIED="1613111309060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$biji.coverage" NAME="biji Coverage Results" MODIFIED="1613366950059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$MyLayer.coverage" NAME="MyLayer Coverage Results" MODIFIED="1613488308723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras/parameter_share" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$jssang_test.coverage" NAME="jssang_test Coverage Results" MODIFIED="1618317761037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../xlm-roberta-ner-master" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$iterable_iterator.coverage" NAME="iterable_iterator Coverage Results" MODIFIED="1618593422128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapterxx" />
     <SUITE FILE_PATH="coverage/coding_master_shool$main_train.coverage" NAME="main_train_minist Coverage Results" MODIFIED="1613446823980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$main.coverage" NAME="main Coverage Results" MODIFIED="1618232655876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../xlm-roberta-ner-master" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$dict_my_method.coverage" NAME="dict_my_method Coverage Results" MODIFIED="1609998489909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
-    <SUITE FILE_PATH="coverage/coding_master_shool$my_set.coverage" NAME="my_set Coverage Results" MODIFIED="1609999169948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/master_school$with_test.coverage" NAME="with_test Coverage Results" MODIFIED="1618025393768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/master_school$delete.coverage" NAME="delete Coverage Results" MODIFIED="1618241383607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter07" />
+    <SUITE FILE_PATH="coverage/master_school$gen_func.coverage" NAME="gen_func Coverage Results" MODIFIED="1618754799174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter09" />
+    <SUITE FILE_PATH="coverage/master_school$set_test.coverage" NAME="set_test Coverage Results" MODIFIED="1618153160588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter06" />
+    <SUITE FILE_PATH="coverage/master_school$contextlib_with.coverage" NAME="contextlib_with Coverage Results" MODIFIED="1618025895958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/master_school$thread_condition.coverage" NAME="thread_condition Coverage Results" MODIFIED="1619019726545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter11" />
+    <SUITE FILE_PATH="coverage/master_school$python_thread.coverage" NAME="python_thread Coverage Results" MODIFIED="1618932867619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter11" />
+    <SUITE FILE_PATH="coverage/master_school$new_init.coverage" NAME="new_init Coverage Results" MODIFIED="1618415960149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter08" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$iterable_iterator.coverage" NAME="iterable_iterator Coverage Results" MODIFIED="1618593422128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapterxx" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$jssang_test.coverage" NAME="jssang_test Coverage Results" MODIFIED="1618317761037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../xlm-roberta-ner-master" />
+    <SUITE FILE_PATH="coverage/master_school$gen_work.coverage" NAME="gen_work Coverage Results" MODIFIED="1618756182387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter09" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$MySiameseModel.coverage" NAME="MySiameseModel Coverage Results" MODIFIED="1613111309060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
+    <SUITE FILE_PATH="coverage/master_school$bisect_test.coverage" NAME="bisect_test Coverage Results" MODIFIED="1618143388573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter05" />
+    <SUITE FILE_PATH="coverage/master_school$my_orm.coverage" NAME="my_orm Coverage Results" MODIFIED="1618753453622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter08" />
     <SUITE FILE_PATH="coverage/coding_master_shool$main_train_siamese_network.coverage" NAME="main_train_siamese_network Coverage Results" MODIFIED="1613367214309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
+    <SUITE FILE_PATH="coverage/master_school$read_file.coverage" NAME="read_file Coverage Results" MODIFIED="1618760908505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter09" />
+    <SUITE FILE_PATH="coverage/master_school$sequence_test.coverage" NAME="sequence_test Coverage Results" MODIFIED="1618067211247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter05" />
+    <SUITE FILE_PATH="coverage/master_school$4_NotImplementedError.coverage" NAME="4_NotImplementedError Coverage Results" MODIFIED="1618844574075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
+    <SUITE FILE_PATH="coverage/master_school$one_error.coverage" NAME="one_error Coverage Results" MODIFIED="1618241903851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter07" />
+    <SUITE FILE_PATH="coverage/master_school$attr_desc.coverage" NAME="attr_desc Coverage Results" MODIFIED="1618415508198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter08" />
+    <SUITE FILE_PATH="coverage/master_school$thread_semaphore.coverage" NAME="thread_semaphore Coverage Results" MODIFIED="1619105940494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter11" />
+    <SUITE FILE_PATH="coverage/master_school$dict_abc.coverage" NAME="dict_abc Coverage Results" MODIFIED="1618148299394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter06" />
+    <SUITE FILE_PATH="coverage/master_school$iterable_iterator__1_.coverage" NAME="iterable_iterator (1) Coverage Results" MODIFIED="1618754331907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter09" />
+    <SUITE FILE_PATH="coverage/master_school$thread_queue.coverage" NAME="thread_queue Coverage Results" MODIFIED="1618933913720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter11" />
+    <SUITE FILE_PATH="coverage/master_school$array_test.coverage" NAME="array_test Coverage Results" MODIFIED="1618144273807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter05" />
+    <SUITE FILE_PATH="coverage/master_school$getattr.coverage" NAME="getattr Coverage Results" MODIFIED="1618415309563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter08" />
+    <SUITE FILE_PATH="coverage/master_school$8_attr_private.coverage" NAME="8_attr_private Coverage Results" MODIFIED="1619016466553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
     <SUITE FILE_PATH="coverage/coding_master_shool$MySequential.coverage" NAME="MySequential Coverage Results" MODIFIED="1613142427430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras/one_input_one_output" />
+    <SUITE FILE_PATH="coverage/master_school$what_is_var.coverage" NAME="what_is_var Coverage Results" MODIFIED="1618240757636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter07" />
+    <SUITE FILE_PATH="coverage/master_school$self_ex.coverage" NAME="self_ex Coverage Results" MODIFIED="1617896744947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/master_school$list_gen.coverage" NAME="list_gen Coverage Results" MODIFIED="1618145991185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter05" />
+    <SUITE FILE_PATH="coverage/master_school$metaclass_test.coverage" NAME="metaclass_test Coverage Results" MODIFIED="1618503196989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter08" />
+    <SUITE FILE_PATH="coverage/master_school$socket_http.coverage" NAME="socket_http Coverage Results" MODIFIED="1618847794506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter10" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$main.coverage" NAME="main Coverage Results" MODIFIED="1618232655876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../xlm-roberta-ner-master" />
+    <SUITE FILE_PATH="coverage/master_school$python_gil.coverage" NAME="python_gil Coverage Results" MODIFIED="1618848639225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter11" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$main_train_minist.coverage" NAME="main_train_minist Coverage Results" MODIFIED="1613534718079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$dict_my_method.coverage" NAME="dict_my_method Coverage Results" MODIFIED="1609998489909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/master_school$slice_test.coverage" NAME="slice_test Coverage Results" MODIFIED="1618078219900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter05" />
+    <SUITE FILE_PATH="coverage/master_school$2_is_equel.coverage" NAME="2_is_equel Coverage Results" MODIFIED="1618111041347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
+    <SUITE FILE_PATH="coverage/master_school$super_test.coverage" NAME="super_test Coverage Results" MODIFIED="1617897334625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
     <SUITE FILE_PATH="coverage/coding_master_shool$iterable.coverage" NAME="iterable Coverage Results" MODIFIED="1618590864904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapterxx" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$biji.coverage" NAME="biji Coverage Results" MODIFIED="1613366950059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
+    <SUITE FILE_PATH="coverage/master_school$type_isinstance.coverage" NAME="type_isinstance Coverage Results" MODIFIED="1618113294121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
+    <SUITE FILE_PATH="coverage/master_school$property_test.coverage" NAME="property_test Coverage Results" MODIFIED="1618242542408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter08" />
+    <SUITE FILE_PATH="coverage/master_school$thread_sync.coverage" NAME="thread_sync Coverage Results" MODIFIED="1619018964318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter11" />
+    <SUITE FILE_PATH="coverage/master_school$concurrent_futures.coverage" NAME="concurrent_futures Coverage Results" MODIFIED="1619107845880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter11" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$my_set.coverage" NAME="my_set Coverage Results" MODIFIED="1609999169948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/master_school$7_different_method.coverage" NAME="7_different_method Coverage Results" MODIFIED="1619104785957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
+    <SUITE FILE_PATH="coverage/master_school$2_is_equal.coverage" NAME="2_is_equal Coverage Results" MODIFIED="1618241063963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
+    <SUITE FILE_PATH="coverage/master_school$dict_method.coverage" NAME="dict_method Coverage Results" MODIFIED="1618149821156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter06" />
+    <SUITE FILE_PATH="coverage/master_school$slice_object.coverage" NAME="slice_object Coverage Results" MODIFIED="1618079282386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter05" />
+    <SUITE FILE_PATH="coverage/coding_master_shool$MyLayer.coverage" NAME="MyLayer Coverage Results" MODIFIED="1613488308723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras/parameter_share" />
     <SUITE FILE_PATH="coverage/coding_master_shool$dict_subclass.coverage" NAME="dict_subclass Coverage Results" MODIFIED="1609998774458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
+    <SUITE FILE_PATH="coverage/master_school$socket_server.coverage" NAME="socket_server Coverage Results" MODIFIED="1618847100136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter10" />
+    <SUITE FILE_PATH="coverage/master_school$dict_subclass.coverage" NAME="dict_subclass Coverage Results" MODIFIED="1618150330178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter06" />
+    <SUITE FILE_PATH="coverage/master_school$1_add_isdd_extend.coverage" NAME="1_add_isdd_extend Coverage Results" MODIFIED="1618110513175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
+    <SUITE FILE_PATH="coverage/master_school$socket_client.coverage" NAME="socket_client Coverage Results" MODIFIED="1618847103730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter10" />
   </component>
 </project>
