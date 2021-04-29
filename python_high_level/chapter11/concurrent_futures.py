@@ -42,3 +42,8 @@ for future in as_completed(all_task):
 # # 通过executor获取已经完成的task
 for data in executor.map(get_html, urls):
     print(f"get {data} page") # map返回的结果顺序和传入的顺序一致
+    
+
+from concurrent.futures import Future
+# Future贯穿了协程编程的整个
+# 未来对象，task的返回容器
