@@ -25,26 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bd82abe-6cfe-4a04-83f0-bdfc629ca839" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/4_NotImplementedError.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/7_different_method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/8_attr_private.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter10/socket_http.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/concurrent_futures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/python_gil.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/python_thread.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_queue_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_semaphore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/thread_sync.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python_high_level/chapter11/variables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_high_level/1min_master_school_code/type_isinstance.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/1min_master_school_code/3_type_isinstance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_high_level/chapter10/socket_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/chapter10/socket_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python_high_level/chapter10/socket_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_high_level/chapter10/socket_server.py" afterDir="false" />
-    </list>
+    <list default="true" id="0bd82abe-6cfe-4a04-83f0-bdfc629ca839" name="Default Changelist" comment="test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +70,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/algoithm/ppt" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -98,10 +79,15 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\master_school_coding\master_school\algoithm\ppt" />
+      <recent name="E:\master_school_coding\master_school\algoithm" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\master_school_coding\master_school\algoithm\code" />
       <recent name="$PROJECT_DIR$/t_keras/parameter_share" />
       <recent name="$PROJECT_DIR$/t_keras/one_input_one_output" />
     </key>
@@ -253,6 +239,7 @@
       <workItem from="1618843168885" duration="4770000" />
       <workItem from="1618929787581" duration="4331000" />
       <workItem from="1619016123004" duration="8664000" />
+      <workItem from="1619233316833" duration="2608000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1608651698918</created>
@@ -331,7 +318,28 @@
       <option name="project" value="LOCAL" />
       <updated>1618760921489</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="test">
+      <created>1619233522202</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1619233522202</updated>
+    </task>
+    <task id="LOCAL-00013" summary="test">
+      <created>1619233598203</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1619233598203</updated>
+    </task>
+    <task id="LOCAL-00014" summary="test">
+      <created>1619235667295</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1619235667295</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
