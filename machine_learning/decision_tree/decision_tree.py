@@ -17,4 +17,19 @@ def createDataSet():
     column_name = ['工资', '压力', '平台']
     return dataSet, column_name
 
+def createDataSetForRegression():
+    dataSet = [[1, 1, 2, 1],
+               [0, 1, 0, 0.9],
+               [1, 0, 0, 0.8],
+               [0, 1, 0, 0.9],
+               [0, 1, 1, 0.1],
+               [1, 1, 1, 0.9],
+               [0, 0, 2, 0.2],
+               [0, 0, 1, 0.1]]
+    column_name = ['工资', '压力', '平台']
+    return dataSet, column_name
+
+"""
+
+"""
 print(1)
