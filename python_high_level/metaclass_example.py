@@ -84,37 +84,37 @@
 
 
 # # 示例五：元类中的__call__方法
-# class MyMetaClass(type):
-#     def __init__(self, *args, **kwargs):
-#         print("MetaClass.__init__")
-#         super().__init__(*args, **kwargs)
-#     def __new__(cls, *args, **kwargs):
-#         print("MetaClass.__new__")
-#         new_class = super().__new__(cls,*args, **kwargs)
-#         print(new_class)
-#         return new_class
-#
-#     def __call__(self, *args, **kwargs):
-#         print('MetaClass.__call__')
-#         # 1. 调用自己那个类的__new__方法去创建对象
-#         obj = self.__new__(self)
-#         # 2. 调用自己哪个类的__init__方法去初始化
-#         self.__init__(obj, *args, **kwargs)
-#         return obj
-#
-# class MyClass(metaclass=MyMetaClass):
-#     def __init__(self, name):
-#         print('MyClass.__init__')
-#         self.name = name
-#
-#     def __new__(cls, *args, **kwargs):
-#         print('MyClass.__new__')
-#         return object.__new__(cls)
-# print("debug")
+class MyMetaClass(type):
+    def __init__(self, *args, **kwargs):
+        print("MetaClass.__init__")
+        super().__init__(*args, **kwargs)
+    def __new__(cls, *args, **kwargs):
+        print("MetaClass.__new__")
+        new_class = super().__new__(cls,*args, **kwargs)
+        print(new_class)
+        return new_class
+
+    def __call__(self, *args, **kwargs):
+        print('MetaClass.__call__')
+        # 1. 调用自己那个类的__new__方法去创建对象
+        obj = self.__new__(self)
+        # 2. 调用自己哪个类的__init__方法去初始化
+        self.__init__(obj, *args, **kwargs)
+        return obj
+
+class MyClass(metaclass=MyMetaClass):
+    def __init__(self, name):
+        print('MyClass.__init__')
+        self.name = name
+
+    def __new__(cls, *args, **kwargs):
+        print('MyClass.__new__')
+        return object.__new__(cls)
+print("debug")
 # # MyClass("master school") 可以理解为 类+()
 # # 也可以理解为由MyMetaClass创建的对象+括号
 # # 优先会执行__call__方法
 # # 注意， MyClass("master school")这里没有运行MyMetaClass的__new__方法和__init__方法
-# myClass = MyClass("master school")
+myClass = MyClass("master school")
 print(1)
 ###########   示例结束
