@@ -1,15 +1,18 @@
 import torch
 import torch.nn.functional as F
 
-from AI.GCN.GCN_model import GCN
 from AI.dataset.gen_dataset import GenCoreDataset
+from graphSAGE.GraphSAGE_model import GraphSAGE
 
 epoch = 200
 
-genCoreDataset = GenCoreDataset()
-all_feature,all_label,adj_matrix,idx_train,idx_val,idx_test = genCoreDataset.main_process()
+genCoreDataset = GenCoreDataset(is_dict=True)
+all_feature,all_label,adj_dict,idx_train,idx_val,idx_test = genCoreDataset.main_process()
 
-model = GCN(all_feature.shape[1], hidden_dim = 16, label_dim = len(genCoreDataset.label2num))
+model = GraphSAGE(adj_dict)
+
+
+
 optimizer = torch.optim.Adam(model.parameters(), lr=0.01, weight_decay=5e-4)
 
 
