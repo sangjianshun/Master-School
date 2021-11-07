@@ -15,6 +15,7 @@ list_master_school.append([1, 2])  # [1, 2, 'master', 'school', 3, [1,2]]
 list_master_school.extend(["e1", "e2"])  # [1, 2, 'master', 'school',3 , [1,2],"e1","e2"]，注意参数可迭代即可，和+=等价，和+逻辑不一样
 list_master_school += ("e1", "e2")  # 这里是可迭代即可
 list_master_school = list_master_school + ["e1", "e2"]  # [1, 2, 'master', 'school', 3, [1,2],"e1","e2"] 注意这里必须是list
+list_master_school = ["master school"] * 3
 ### 1.2.3 insert
 list_master_school.insert(1, 10)
 ## 1.3 删
