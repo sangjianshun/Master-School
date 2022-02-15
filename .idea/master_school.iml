@@ -8,13 +8,14 @@
       <sourceFolder url="file://$MODULE_DIR$/AI" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/machine_learning/GNN/Graph_Network/Graph_Network" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.8 (master_school)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.6 (DisasterDet_FlyAI)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="R Skeletons" level="application" />
     <orderEntry type="library" name="R User Library" level="project" />
     <orderEntry type="module" module-name="xlm-roberta-ner-master" />
-    <orderEntry type="module" module-name="robust-kg-completion-main" />
     <orderEntry type="module" module-name="20180622_algorithm" />
+    <orderEntry type="module" module-name="RNN-Active-User-Forecast-master" />
+    <orderEntry type="module" module-name="machinelearninginaction" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Twisted Trial" />

@@ -29,26 +29,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bd82abe-6cfe-4a04-83f0-bdfc629ca839" name="Default Changelist" comment="test">
-      <change afterPath="$PROJECT_DIR$/AI/GCN/GCN_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI/dataset/gen_dataset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI/graphSAGE/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI/graphSAGE/graphSAGE_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AI/graphSAGE/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structure/my_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_structure/my_set.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/machinelearninginaction/.idea/machinelearninginaction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/GNN/Graph_Network/Graph_Network/.idea/Graph_Network.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/machine_learning/decision_tree/Cart_regression.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/machine_learning/decision_tree/GBDT_Simple_Tutorial-master/GBDT/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/decision_tree/plot_tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/t_tensorflow/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/t_tensorflow/t_estimater_2_titanic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/t_tensorflow/t_estimator.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/machinelearninginaction/Ch02/kNN.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/machinelearninginaction/Ch02/kNN.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/machinelearninginaction/Ch07/EXTRAS/simpleDataPlot.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/machinelearninginaction/Ch07/EXTRAS/simpleDataPlot.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/machinelearninginaction/Ch09/regTrees.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/machinelearninginaction/Ch09/regTrees.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/machinelearninginaction/Ch09/treeExplore.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/machinelearninginaction/Ch09/treeExplore.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/machinelearninginaction/Ch11/apriori.py" beforeDir="false" afterPath="$USER_HOME$/Desktop/machinelearninginaction/Ch11/apriori.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Desktop/machinelearninginaction/Ch15/myout.txt" beforeDir="false" afterPath="$USER_HOME$/Desktop/machinelearninginaction/Ch15/myout.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/master_school.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/master_school.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/GCN/dataset/cora/README" beforeDir="false" afterPath="$PROJECT_DIR$/AI/dataset/cora/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/GCN/dataset/cora/cora.cites" beforeDir="false" afterPath="$PROJECT_DIR$/AI/dataset/cora/cora.cites" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/GCN/dataset/cora/cora.content" beforeDir="false" afterPath="$PROJECT_DIR$/AI/dataset/cora/cora.content" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/GCN/gen_dataset.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AI/GCN/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/AI/GCN/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/my_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/my_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_structure/my_tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_structure/my_tuple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/machine_learning/decision_tree/decision_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/machine_learning/decision_tree/decision_tree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,8 +115,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/AI" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/machine_learning/decision_tree/data" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -130,22 +130,22 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\master_school_coding\master_school\machine_learning\decision_tree\data" />
+      <recent name="E:\master_school_coding\master_school\machine_learning\t_tensorflow\dataset" />
+      <recent name="E:\master_school_coding\master_school\machine_learning\t_tensorflow" />
+      <recent name="D:\github\RNN-Active-User-Forecast-master\RNN-Active-User-Forecast-master" />
       <recent name="E:\master_school_coding\master_school\AI" />
-      <recent name="E:\master_school_coding\master_school\AI\graphSAGE" />
-      <recent name="E:\master_school_coding\master_school\AI\GCN\dataset" />
-      <recent name="E:\master_school_coding\master_school\machine_learning\decision_tree\GBDT_Simple_Tutorial-master\GBDT" />
-      <recent name="E:\master_school_coding\master_school\machine_learning\decision_tree" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\RNN-Active-User-Forecast-master\RNN-Active-User-Forecast-master" />
       <recent name="E:\master_school_coding\master_school\AI\dataset" />
       <recent name="E:\master_school_coding\master_school\AI" />
       <recent name="E:\master_school_coding\master_school\AI\GCN\dataset" />
       <recent name="E:\master_school_coding\master_school\python_high_level" />
-      <recent name="E:\master_school_coding\master_school\python_high_level\metaclass_biji" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.my_dict">
-    <configuration name="gen_dataset (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Cart_regression">
+    <configuration name="Cart_regression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,12 +153,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AI/dataset" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine_learning/decision_tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AI/dataset/gen_dataset.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/decision_tree/Cart_regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="plot_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,12 +175,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AI/GCN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine_learning/decision_tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AI/GCN/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/decision_tree/plot_tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,20 +189,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="master_school" />
+    <configuration name="regTrees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machinelearninginaction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AI/graphSAGE" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/machinelearninginaction/Ch09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AI/graphSAGE/main.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/machinelearninginaction/Ch09/regTrees.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="t_estimater_2_titanic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="master_school" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,12 +219,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/machine_learning/t_tensorflow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/my_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/machine_learning/t_tensorflow/t_estimater_2_titanic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,20 +233,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="master_school" />
+    <configuration name="treeExplore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="machinelearninginaction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_structure" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_HOME" value="D:\Users\sangjianshun\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/machinelearninginaction/Ch09" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_structure/my_tuple.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/machinelearninginaction/Ch09/treeExplore.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -256,19 +256,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main (1)" />
-      <item itemvalue="Python.gen_dataset (1)" />
-      <item itemvalue="Python.main (2)" />
-      <item itemvalue="Python.my_tuple" />
-      <item itemvalue="Python.my_dict" />
+      <item itemvalue="Python.t_estimater_2_titanic" />
+      <item itemvalue="Python.treeExplore" />
+      <item itemvalue="Python.regTrees" />
+      <item itemvalue="Python.Cart_regression" />
+      <item itemvalue="Python.plot_tree" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.my_dict" />
-        <item itemvalue="Python.my_tuple" />
-        <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.main (1)" />
-        <item itemvalue="Python.gen_dataset (1)" />
+        <item itemvalue="Python.Cart_regression" />
+        <item itemvalue="Python.regTrees" />
+        <item itemvalue="Python.plot_tree" />
+        <item itemvalue="Python.treeExplore" />
+        <item itemvalue="Python.t_estimater_2_titanic" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +347,18 @@
       <workItem from="1634907341080" duration="1608000" />
       <workItem from="1634911224375" duration="13785000" />
       <workItem from="1635137749493" duration="17474000" />
-      <workItem from="1635421196003" duration="46100000" />
+      <workItem from="1635421196003" duration="47450000" />
+      <workItem from="1636557879987" duration="3091000" />
+      <workItem from="1637467417636" duration="7352000" />
+      <workItem from="1639319169576" duration="5090000" />
+      <workItem from="1639491785096" duration="96000" />
+      <workItem from="1639491907255" duration="408000" />
+      <workItem from="1640399657538" duration="386000" />
+      <workItem from="1641221504517" duration="1951000" />
+      <workItem from="1641311847980" duration="4424000" />
+      <workItem from="1644584970027" duration="650000" />
+      <workItem from="1644588126764" duration="5018000" />
+      <workItem from="1644934185937" duration="5193000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1608651698918</created>
@@ -545,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635695654836</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="test">
+      <created>1636279120457</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1636279120457</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -978,11 +996,6 @@
           <option name="timeStamp" value="243" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/machine_learning/decision_tree/Cart_regression.py</url>
-          <line>68</line>
-          <option name="timeStamp" value="261" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/machine_learning/GNN/Graph_Network/Graph_Network/pygcn/pygcn/train.py</url>
           <line>44</line>
           <option name="timeStamp" value="263" />
@@ -1062,6 +1075,66 @@
           <line>61</line>
           <option name="timeStamp" value="313" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/github/RNN-Active-User-Forecast-master/RNN-Active-User-Forecast-master/jssang.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/github/RNN-Active-User-Forecast-master/RNN-Active-User-Forecast-master/deep_tools.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://D:/github/RNN-Active-User-Forecast-master/RNN-Active-User-Forecast-master/deep_tools.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/t_tensorflow/t_estimator.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/t_tensorflow/t_estimator.py</url>
+          <line>95</line>
+          <option name="timeStamp" value="320" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/t_tensorflow/t_estimater_2_titanic.py</url>
+          <line>78</line>
+          <option name="timeStamp" value="321" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/t_tensorflow/myIris.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="322" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/t_tensorflow/myIris.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="323" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/t_tensorflow/t_estimater_2_titanic.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="324" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Desktop/machinelearninginaction/Ch09/regTrees.py</url>
+          <line>150</line>
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/decision_tree/Cart_regression.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="338" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/machine_learning/decision_tree/Cart_regression.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="339" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -1090,9 +1163,12 @@
     <SUITE FILE_PATH="coverage/coding_master_shool$main_train_siamese_network.coverage" NAME="main_train_siamese_network Coverage Results" MODIFIED="1613367214309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_keras" />
     <SUITE FILE_PATH="coverage/master_school$sequence_test.coverage" NAME="sequence_test Coverage Results" MODIFIED="1618067211247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter05" />
     <SUITE FILE_PATH="coverage/master_school$loop_test.coverage" NAME="loop_test Coverage Results" MODIFIED="1619624499725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter13" />
+    <SUITE FILE_PATH="coverage/master_school$regTrees.coverage" NAME="regTrees Coverage Results" MODIFIED="1644938687489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/machinelearninginaction/Ch09" />
+    <SUITE FILE_PATH="coverage/master_school$plot_tree.coverage" NAME="plot_tree Coverage Results" MODIFIED="1644937738568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/decision_tree" />
     <SUITE FILE_PATH="coverage/master_school$one_error.coverage" NAME="one_error Coverage Results" MODIFIED="1618241903851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter07" />
     <SUITE FILE_PATH="coverage/master_school$progress_queue.coverage" NAME="progress_queue Coverage Results" MODIFIED="1619273567293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter11" />
     <SUITE FILE_PATH="coverage/master_school$test_torch.coverage" NAME="test_torch Coverage Results" MODIFIED="1633615987613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/t_pytorch" />
+    <SUITE FILE_PATH="coverage/master_school$jssang.coverage" NAME="jssang Coverage Results" MODIFIED="1636560510408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/github/RNN-Active-User-Forecast-master/RNN-Active-User-Forecast-master" />
     <SUITE FILE_PATH="coverage/master_school$coroutine_test.coverage" NAME="coroutine_test Coverage Results" MODIFIED="1619453241468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter12" />
     <SUITE FILE_PATH="coverage/master_school$attr_desc.coverage" NAME="attr_desc Coverage Results" MODIFIED="1618415508198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter08" />
     <SUITE FILE_PATH="coverage/master_school$tensor_sin_x_defination.coverage" NAME="tensor_sin_x_defination Coverage Results" MODIFIED="1629301587907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/pytorch" />
@@ -1110,7 +1186,7 @@
     <SUITE FILE_PATH="coverage/master_school$list_gen.coverage" NAME="list_gen Coverage Results" MODIFIED="1618145991185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter05" />
     <SUITE FILE_PATH="coverage/master_school$metaclass_test.coverage" NAME="metaclass_test Coverage Results" MODIFIED="1633875779318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter08" />
     <SUITE FILE_PATH="coverage/master_school$socket_http.coverage" NAME="socket_http Coverage Results" MODIFIED="1618847794506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter10" />
-    <SUITE FILE_PATH="coverage/master_school$Cart_regression.coverage" NAME="Cart_regression Coverage Results" MODIFIED="1635261348572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/decision_tree" />
+    <SUITE FILE_PATH="coverage/master_school$Cart_regression.coverage" NAME="Cart_regression Coverage Results" MODIFIED="1644939410491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/decision_tree" />
     <SUITE FILE_PATH="coverage/master_school$numpy_sin_x.coverage" NAME="numpy_sin_x Coverage Results" MODIFIED="1628408671330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/pytorch" />
     <SUITE FILE_PATH="coverage/master_school$biji__1_.coverage" NAME="biji (1) Coverage Results" MODIFIED="1628308851812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/pytorch" />
     <SUITE FILE_PATH="coverage/coding_master_shool$main.coverage" NAME="main Coverage Results" MODIFIED="1618232655876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../xlm-roberta-ner-master" />
@@ -1130,11 +1206,13 @@
     <SUITE FILE_PATH="coverage/master_school$concurrent_futures.coverage" NAME="concurrent_futures Coverage Results" MODIFIED="1619107845880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter11" />
     <SUITE FILE_PATH="coverage/coding_master_shool$my_set.coverage" NAME="my_set Coverage Results" MODIFIED="1609999169948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
     <SUITE FILE_PATH="coverage/master_school$2_is_equal.coverage" NAME="2_is_equal Coverage Results" MODIFIED="1618241063963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
+    <SUITE FILE_PATH="coverage/master_school$treeExplore.coverage" NAME="treeExplore Coverage Results" MODIFIED="1644589303601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/machinelearninginaction/Ch09" />
     <SUITE FILE_PATH="coverage/master_school$dict_method.coverage" NAME="dict_method Coverage Results" MODIFIED="1618149821156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter06" />
     <SUITE FILE_PATH="coverage/master_school$random_type.coverage" NAME="random_type Coverage Results" MODIFIED="1630857406974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/pytorch" />
     <SUITE FILE_PATH="coverage/master_school$gen_to_coroutine.coverage" NAME="gen_to_coroutine Coverage Results" MODIFIED="1619539484873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter12" />
     <SUITE FILE_PATH="coverage/master_school$my_list.coverage" NAME="my_list Coverage Results" MODIFIED="1635697186417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
     <SUITE FILE_PATH="coverage/master_school$train.coverage" NAME="train Coverage Results" MODIFIED="1635429619673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/GNN/Graph_Network/Graph_Network/pygcn/pygcn" />
+    <SUITE FILE_PATH="coverage/master_school$t_estimater_2_titanic.coverage" NAME="t_estimater_2_titanic Coverage Results" MODIFIED="1641396440082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/t_tensorflow" />
     <SUITE FILE_PATH="coverage/master_school$1_add_isdd_extend.coverage" NAME="1_add_isdd_extend Coverage Results" MODIFIED="1618110513175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
     <SUITE FILE_PATH="coverage/master_school$with_test.coverage" NAME="with_test Coverage Results" MODIFIED="1618025393768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter04" />
     <SUITE FILE_PATH="coverage/master_school$delete.coverage" NAME="delete Coverage Results" MODIFIED="1618241383607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter07" />
@@ -1146,6 +1224,7 @@
     <SUITE FILE_PATH="coverage/master_school$main.coverage" NAME="main Coverage Results" MODIFIED="1635949591096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/GNN/Graph_Network/Graph_Network/graphSAGEpytorch/src" />
     <SUITE FILE_PATH="coverage/master_school$new_init.coverage" NAME="new_init Coverage Results" MODIFIED="1634142368780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter08" />
     <SUITE FILE_PATH="coverage/master_school$decision_tree.coverage" NAME="decision_tree Coverage Results" MODIFIED="1633834309079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/decision_tree" />
+    <SUITE FILE_PATH="coverage/master_school$myIris.coverage" NAME="myIris Coverage Results" MODIFIED="1639324119134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/t_tensorflow" />
     <SUITE FILE_PATH="coverage/coding_master_shool$iterable_iterator.coverage" NAME="iterable_iterator Coverage Results" MODIFIED="1618593422128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapterxx" />
     <SUITE FILE_PATH="coverage/master_school$largestRectangleArea.coverage" NAME="largestRectangleArea Coverage Results" MODIFIED="1630768909742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algorithm/code" />
     <SUITE FILE_PATH="coverage/master_school$gen_work.coverage" NAME="gen_work Coverage Results" MODIFIED="1618756182387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter09" />
@@ -1159,7 +1238,7 @@
     <SUITE FILE_PATH="coverage/master_school$thread_semaphore.coverage" NAME="thread_semaphore Coverage Results" MODIFIED="1619105940494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter11" />
     <SUITE FILE_PATH="coverage/master_school$dict_abc.coverage" NAME="dict_abc Coverage Results" MODIFIED="1618148299394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter06" />
     <SUITE FILE_PATH="coverage/master_school$my_dict.coverage" NAME="my_dict Coverage Results" MODIFIED="1636278880117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_structure" />
-    <SUITE FILE_PATH="coverage/master_school$biji.coverage" NAME="biji Coverage Results" MODIFIED="1635431489511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/master_school$biji.coverage" NAME="biji Coverage Results" MODIFIED="1641222405839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5" />
     <SUITE FILE_PATH="coverage/master_school$thread_queue.coverage" NAME="thread_queue Coverage Results" MODIFIED="1618933913720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter11" />
     <SUITE FILE_PATH="coverage/master_school$pregress_test.coverage" NAME="pregress_test Coverage Results" MODIFIED="1619261572204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter11" />
     <SUITE FILE_PATH="coverage/master_school$getattr.coverage" NAME="getattr Coverage Results" MODIFIED="1618415309563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter08" />
@@ -1173,6 +1252,7 @@
     <SUITE FILE_PATH="coverage/coding_master_shool$iterable.coverage" NAME="iterable Coverage Results" MODIFIED="1618590864904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapterxx" />
     <SUITE FILE_PATH="coverage/master_school$gen_dataset__1_.coverage" NAME="gen_dataset (1) Coverage Results" MODIFIED="1635951556803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AI/dataset" />
     <SUITE FILE_PATH="coverage/master_school$multiprocessing_test.coverage" NAME="multiprocessing_test Coverage Results" MODIFIED="1619262582948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter11" />
+    <SUITE FILE_PATH="coverage/master_school$t_estimator.coverage" NAME="t_estimator Coverage Results" MODIFIED="1637504402138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/t_tensorflow" />
     <SUITE FILE_PATH="coverage/master_school$7_different_method.coverage" NAME="7_different_method Coverage Results" MODIFIED="1619104785957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/1min_master_school_code" />
     <SUITE FILE_PATH="coverage/master_school$cal_Ent.coverage" NAME="cal_Ent Coverage Results" MODIFIED="1623556744200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning/decision_tree" />
     <SUITE FILE_PATH="coverage/master_school$slice_object.coverage" NAME="slice_object Coverage Results" MODIFIED="1618079282386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python_high_level/chapter05" />

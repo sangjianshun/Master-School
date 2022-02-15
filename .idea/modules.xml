@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../../python_file/testpy/20180622_algorithm/.idea/20180622_algorithm.iml" filepath="$PROJECT_DIR$/../../python_file/testpy/20180622_algorithm/.idea/20180622_algorithm.iml" />
+      <module fileurl="file://D:/github/RNN-Active-User-Forecast-master/.idea/RNN-Active-User-Forecast-master.iml" filepath="D:/github/RNN-Active-User-Forecast-master/.idea/RNN-Active-User-Forecast-master.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/machinelearninginaction/.idea/machinelearninginaction.iml" filepath="$USER_HOME$/Desktop/machinelearninginaction/.idea/machinelearninginaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/master_school.iml" filepath="$PROJECT_DIR$/.idea/master_school.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../robust-kg-completion-main/.idea/robust-kg-completion-main.iml" filepath="$PROJECT_DIR$/../robust-kg-completion-main/.idea/robust-kg-completion-main.iml" />
       <module fileurl="file://$PROJECT_DIR$/../../xlm-roberta-ner-master/.idea/xlm-roberta-ner-master.iml" filepath="$PROJECT_DIR$/../../xlm-roberta-ner-master/.idea/xlm-roberta-ner-master.iml" />
     </modules>
   </component>
