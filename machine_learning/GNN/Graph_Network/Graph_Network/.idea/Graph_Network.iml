@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/metapath2vec-master/code" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DySAT_python3_tf/utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DySAT_python3_tf/models/DySAT" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DHGNN" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

@@ -28,8 +28,3 @@ def createDataSetForRegression():
                [0, 0, 1, 0.1]]
     column_name = ['工资', '压力', '平台']
     return dataSet, column_name
-
-"""
-
-"""
-print(1)
