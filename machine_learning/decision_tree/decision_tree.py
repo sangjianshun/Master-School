@@ -1,5 +1,3 @@
-# 未完待续
-
 def createDataSet():
     """
     工资：1高，0低
@@ -26,5 +24,12 @@ def createDataSetForRegression():
                [1, 1, 1, 0.9],
                [0, 0, 2, 0.2],
                [0, 0, 1, 0.1]]
+    column_name = ['工资', '压力', '平台']
+    return dataSet, column_name
+
+def createValidDataSetForRegression():
+    dataSet = [[0, 1, 2, 0.12],
+               [1, 0, 0, 0.9],
+               [1, 1, 0, 0.91]]
     column_name = ['工资', '压力', '平台']
     return dataSet, column_name
