@@ -74,19 +74,5 @@ if __name__ == '__main__':
     res = treeNode2Dict(cart_regression_tree, {})
     plot_tree(res)
 
-    # 剪枝代码讲解需要
-    # def loadDataSet(fileName):      #general function to parse tab -delimited floats
-    #     dataMat = []                #assume last column is target value
-    #     fr = open(fileName)
-    #     for line in fr.readlines():
-    #         curLine = line.strip().split('\t')
-    #         fltLine = list(map(float,curLine)) #map all elements to float()
-    #         dataMat.append(fltLine)
-    #     return dataMat
-    # dataset = loadDataSet('./data/ex00.txt')
-    # dataset = np.array(dataset)[:10,:]
-    # column_name = ['feature1']
-    # cart_regression_tree = create_cart_regression_tree(dataset, column_name)
-    # res = treeNode2Dict(cart_regression_tree, {})
-    # plot_tree(res)
-    # print(1)
+
+
